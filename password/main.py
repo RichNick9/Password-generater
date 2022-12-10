@@ -4,7 +4,7 @@ import random
 uppercase_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lowercase_letters = uppercase_letters.lower()
 digits = "0123456789"
-symbols = "()_-+={]};:,.!@#$%^&*/?"
+symbols = "()_-+={]};:,.!@#$%^&*/?" #the type of symbols 
 
 upper, lower, nums, syms = True, True, True, True  #If you dont want one of the items to be used in the password set the correspondent to false 
 
